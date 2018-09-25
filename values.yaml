@@ -5,8 +5,8 @@ jenkins:
   # name: value
   Master:
     Name: jenkins-master
-    Image: "garethjevans/jenkinsx"
-    ImageTag: "teamA_03"
+    Image: "garethjevans/jenkins-quickstart02"
+    ImageTag: "dev_01"
     ImagePullPolicy: "IfNotPresent"
     Component: "jenkins-master"
     UseSecurity: true

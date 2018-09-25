@@ -1,4 +1,4 @@
-name: teamA
+name: jenkins-quickstart02
 home: https://jenkins-x.github.io/jenkins-x-website/
 version: 0.0.1-SNAPSHOT
 description: Jenkins X next gen cloud CI / CD platform for Kubernetes
